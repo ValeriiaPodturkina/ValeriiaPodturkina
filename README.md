@@ -24,17 +24,17 @@
 
 ## Testing Documentation
 
-[<li>Bug-reports](https://drive.google.com/drive/folders/1_hlSP9Cs4S_Z_L7bJHtsa5swTk_toJUx?usp=share_link)</li>
+[<li>Bug-reports</li>](https://drive.google.com/drive/folders/1_hlSP9Cs4S_Z_L7bJHtsa5swTk_toJUx?usp=share_link)
 
-[<li>Check-lists](https://drive.google.com/drive/folders/17QeoTuUN9vUIbSkOHiEEgEilU2o4EOgL?usp=share_link)</li>
+[<li>Check-lists</li>](https://drive.google.com/drive/folders/17QeoTuUN9vUIbSkOHiEEgEilU2o4EOgL?usp=share_link)
 
-[<li>Test plan](https://drive.google.com/drive/folders/16sD9cHlqubkMYLskThtuar9fF1eu-_2l?usp=share_link)</li>
+[<li>Test plan</li>](https://drive.google.com/drive/folders/16sD9cHlqubkMYLskThtuar9fF1eu-_2l?usp=share_link)
 
-[<li>Test cases](https://drive.google.com/drive/folders/1PSlw6tCRqsalNOfK8Mepc5X8uVxb6JWU?usp=share_link)</li>
+[<li>Test cases</li>](https://drive.google.com/drive/folders/1PSlw6tCRqsalNOfK8Mepc5X8uVxb6JWU?usp=share_link)
 
-[<li>SQL queries](https://drive.google.com/drive/folders/1jQSgp8QXChrUgdqeFwHm3wGOr-4hcDBH?usp=share_link)</li>
+[<li>SQL queries</li>](https://drive.google.com/drive/folders/1jQSgp8QXChrUgdqeFwHm3wGOr-4hcDBH?usp=share_link)
 
-[<li>Postman collections](https://drive.google.com/drive/folders/1_hlSP9Cs4S_Z_L7bJHtsa5swTk_toJUx?usp=share_link)</li>
+[<li>Postman collections</li>](https://drive.google.com/drive/folders/1_hlSP9Cs4S_Z_L7bJHtsa5swTk_toJUx?usp=share_link)
 
 ## Contacts
 
