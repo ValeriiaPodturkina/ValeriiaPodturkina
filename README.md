@@ -34,7 +34,7 @@
 
 [SQL queries](https://drive.google.com/drive/folders/1jQSgp8QXChrUgdqeFwHm3wGOr-4hcDBH?usp=share_link)
 
-[Postman collections](https://drive.google.com/drive/folders/1_hlSP9Cs4S_Z_L7bJHtsa5swTk_toJUx?usp=share_link)
+[Postman collections](https://github.com/ValeriiaPodturkina/Postman_collection.git)
 
 ## Contacts
 
