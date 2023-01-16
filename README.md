@@ -22,4 +22,8 @@
 
 ## Testing Documentation
 
-## Contacts
+### Contacts
+
+[![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0078B1)](https://www.linkedin.com/in/valeriia9872b35)
+[![skype](https://img.shields.io/badge/-skype-090909?style=for-the-badge&logo=skype&logoColor=00AFE1)](https://join.skype.com/invite/BRKSokkaiC2t)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=33A5D6)](https://t.me/Llieebee)
