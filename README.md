@@ -4,6 +4,8 @@
 
 ## My CV
 
+[Link to my CV](https://drive.google.com/file/d/14IGmgmghNKYkqeSrAib2QEMEQhFV2ZBa/view?usp=share_link)
+
 ## Language and Tools
 
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=004FC6)
@@ -22,7 +24,14 @@
 
 ## Testing Documentation
 
-### Contacts
+[Bug-reports](https://drive.google.com/drive/folders/1_hlSP9Cs4S_Z_L7bJHtsa5swTk_toJUx?usp=share_link)
+[Check-lists](https://drive.google.com/drive/folders/17QeoTuUN9vUIbSkOHiEEgEilU2o4EOgL?usp=share_link)
+[Test plan](https://drive.google.com/drive/folders/16sD9cHlqubkMYLskThtuar9fF1eu-_2l?usp=share_link)
+[Test cases](https://drive.google.com/drive/folders/1PSlw6tCRqsalNOfK8Mepc5X8uVxb6JWU?usp=share_link)
+[SQL queries](https://drive.google.com/drive/folders/1jQSgp8QXChrUgdqeFwHm3wGOr-4hcDBH?usp=share_link)
+[Postman collections](https://drive.google.com/drive/folders/1_hlSP9Cs4S_Z_L7bJHtsa5swTk_toJUx?usp=share_link)
+
+## Contacts
 
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0078B1)](https://www.linkedin.com/in/valeriia9872b35)
 [![skype](https://img.shields.io/badge/-skype-090909?style=for-the-badge&logo=skype&logoColor=00AFE1)](https://join.skype.com/invite/BRKSokkaiC2t)
